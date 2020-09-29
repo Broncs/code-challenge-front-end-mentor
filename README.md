@@ -1,5 +1,8 @@
 # Frontend Mentor - Social proof section
 
+<a href="https://lucid-lamport-bdf5ac.netlify.app">Live Demo</a>
+
+
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
